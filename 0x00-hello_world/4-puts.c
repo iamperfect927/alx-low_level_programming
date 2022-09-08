@@ -2,7 +2,7 @@
 
 
 /*
- * main - entry point
+ * main - Entry point
  * A C program that prints "Programming is like building a multilingual puzzle
  * Return: 0
 */
